@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore environment and dependencies
+venv/
+*.env
+
+# Ignore configuration files
+*.config
+*.ini
+
+# Ignore results files
+results_*.json
+
+# Ignore WandB files if they are not needed
+wandb/
+
+# Ignore other OS-specific files
+.DS_Store
+Thumbs.db

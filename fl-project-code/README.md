@@ -1,0 +1,2 @@
+# Toward Privacy-Efficient and Interaction-Aware Hyperparameter Tuning for Differentially Private Federated Learning
+This folder contains `hyperparameter_search.py` the base code used for generating the plots in the report. Check the `requirements.txt` for necessary packages to run the code
